@@ -1,1 +1,1 @@
-FROM openshift/jenkins-2-centos7
+FROM openshift3/jenkins-2-rhel7:2.32-7
